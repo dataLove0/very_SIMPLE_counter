@@ -12,3 +12,4 @@ while 1 > 0:
 		print(i / 60, "Minutes passed.")
 	
 	print(i) # prints out seconds
+
